@@ -1,0 +1,9 @@
+{
+  "auctions": [
+    {
+      "id": "5cd1",
+      "name": "test",
+      "price": "123"
+    }
+  ]
+}
