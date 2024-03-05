@@ -13,6 +13,7 @@ function HomePage() {
         load()
     }, [])
 
+
     return <section>
         <h2>Ongoing Auctions</h2>
         <ul>
