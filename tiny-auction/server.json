@@ -1,0 +1,41 @@
+{
+  "get_auctions": [
+    {
+      "title": "Brand new popeye",
+      "slug": "brand-new-popeye",
+      "currentBid": "400000",
+      "totalBids": "30",
+      "ends": "2024-03-07",
+      "id": "fd41"
+    },
+    {
+      "title": "Brand old popeye",
+      "slug": "brand-old-popeye",
+      "currentBid": "400000",
+      "totalBids": "30",
+      "ends": "2024-04-09",
+      "id": "c60c"
+    }
+  ],
+  "post_auctions": [
+    {
+      "id": "67cd"
+    },
+    {
+      "id": "c262"
+    },
+    {
+      "id": "0080"
+    },
+    {
+      "id": "5577"
+    },
+    {
+      "id": "aa7c",
+      "title": "test",
+      "starting_bid": "123123",
+      "description": "this is some description for this auction but it is done once again 123",
+      "ends": "2024-03-07"
+    }
+  ]
+}
